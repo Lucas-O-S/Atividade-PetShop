@@ -1,0 +1,37 @@
+Z:\C#\Petshop\Petshop\bin\Debug\Petshop.exe.config
+Z:\C#\Petshop\Petshop\bin\Debug\Petshop.exe
+Z:\C#\Petshop\Petshop\bin\Debug\Petshop.pdb
+Z:\C#\Petshop\Petshop\obj\Debug\Petshop.csproj.AssemblyReference.cache
+Z:\C#\Petshop\Petshop\obj\Debug\Petshop.csproj.SuggestedBindingRedirects.cache
+Z:\C#\Petshop\Petshop\obj\Debug\Petshop.csproj.CoreCompileInputs.cache
+Z:\C#\Petshop\Petshop\obj\Debug\Petshop.exe
+Z:\C#\Petshop\Petshop\obj\Debug\Petshop.pdb
+C:\Users\lucas\Downloads\Petshop (1)\Petshop\Petshop\bin\Debug\Petshop.exe.config
+C:\Users\lucas\Downloads\Petshop (1)\Petshop\Petshop\bin\Debug\Petshop.exe
+C:\Users\lucas\Downloads\Petshop (1)\Petshop\Petshop\bin\Debug\Petshop.pdb
+C:\Users\lucas\Downloads\Petshop (1)\Petshop\Petshop\obj\Debug\Petshop.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\Petshop (1)\Petshop\Petshop\obj\Debug\Petshop.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Petshop (1)\Petshop\Petshop\obj\Debug\Petshop.exe
+C:\Users\lucas\Downloads\Petshop (1)\Petshop\Petshop\obj\Debug\Petshop.pdb
+Z:\C#\Petshop (1)\Petshop (1)\Petshop\Petshop\bin\Debug\Petshop.exe.config
+Z:\C#\Petshop (1)\Petshop (1)\Petshop\Petshop\bin\Debug\Petshop.exe
+Z:\C#\Petshop (1)\Petshop (1)\Petshop\Petshop\bin\Debug\Petshop.pdb
+Z:\C#\Petshop (1)\Petshop (1)\Petshop\Petshop\obj\Debug\Petshop.csproj.AssemblyReference.cache
+Z:\C#\Petshop (1)\Petshop (1)\Petshop\Petshop\obj\Debug\Petshop.csproj.SuggestedBindingRedirects.cache
+Z:\C#\Petshop (1)\Petshop (1)\Petshop\Petshop\obj\Debug\Petshop.csproj.CoreCompileInputs.cache
+Z:\C#\Petshop (1)\Petshop (1)\Petshop\Petshop\obj\Debug\Petshop.exe
+Z:\C#\Petshop (1)\Petshop (1)\Petshop\Petshop\obj\Debug\Petshop.pdb
+C:\Users\lucas\Downloads\Petshop (1)\Petshop (1)\Petshop (1)\Petshop\Petshop\bin\Debug\Petshop.exe.config
+C:\Users\lucas\Downloads\Petshop (1)\Petshop (1)\Petshop (1)\Petshop\Petshop\bin\Debug\Petshop.exe
+C:\Users\lucas\Downloads\Petshop (1)\Petshop (1)\Petshop (1)\Petshop\Petshop\bin\Debug\Petshop.pdb
+C:\Users\lucas\Downloads\Petshop (1)\Petshop (1)\Petshop (1)\Petshop\Petshop\obj\Debug\Petshop.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\Petshop (1)\Petshop (1)\Petshop (1)\Petshop\Petshop\obj\Debug\Petshop.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Petshop (1)\Petshop (1)\Petshop (1)\Petshop\Petshop\obj\Debug\Petshop.exe
+C:\Users\lucas\Downloads\Petshop (1)\Petshop (1)\Petshop (1)\Petshop\Petshop\obj\Debug\Petshop.pdb
+C:\Users\lucas\Downloads\Petshop (1)\Petshop (1)\Petshop\Petshop\obj\Debug\Petshop.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\Petshop (1)\Petshop (1)\Petshop\Petshop\obj\Debug\Petshop.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Petshop (1)\Petshop (1)\Petshop\Petshop\obj\Debug\Petshop.exe
+C:\Users\lucas\Downloads\Petshop (1)\Petshop (1)\Petshop\Petshop\obj\Debug\Petshop.pdb
+C:\Users\lucas\Downloads\Petshop (1)\Petshop (1)\Petshop\Petshop\bin\Debug\Petshop.exe.config
+C:\Users\lucas\Downloads\Petshop (1)\Petshop (1)\Petshop\Petshop\bin\Debug\Petshop.exe
+C:\Users\lucas\Downloads\Petshop (1)\Petshop (1)\Petshop\Petshop\bin\Debug\Petshop.pdb
